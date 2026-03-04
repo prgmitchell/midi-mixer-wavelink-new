@@ -1,10 +1,10 @@
-# MIDI Mixer WaveLink 1.6+ Plugin (supports 2.0 as well)
+# MIDI Mixer WaveLink 3.0
 
 This plugin was created as a proof of concept for the new WaveLink 1.6 software. Elgato made a lot of changes to how their client works. I first started using MIDI Mixer with the WaveXLR plugin from Anais Betts (https://github.com/anaisbetts/midi-mixer-wavexlr). When the new version of WaveLink dropped, their plugin stopped working. I couldn't get the new version to work with their code, so I had to start over.
 
 ## Latest release
 
-*2.0.1*
+*3.0.1*
 Always wanted to get to v1.0, but now with the release of the new WaveLink software, I guess we're at 2.0. The new software has a new libraray. I haven't been able to get it to work in Midi Mixer just yet, but I made some changes to the old one to get it to work with the new software.
 
 Download the latest release here:
