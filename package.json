@@ -1,7 +1,7 @@
 {
   "name": "midi.mixer.wavelink.new",
-  "version": "2.0.1",
-  "description": "A MIDI Mixer plugin for WaveLink version 1.6 and above",
+  "version": "3.0.1",
+  "description": "A MIDI Mixer plugin for Elgato Wave Link 3.x",
   "main": "lib/main.js",
   "directories": {
     "lib": "lib"
